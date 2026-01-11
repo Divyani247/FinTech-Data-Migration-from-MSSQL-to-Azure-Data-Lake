@@ -4,6 +4,11 @@
 This project demonstrates an end-to-end industrial **FinTech data migration pipeline** that modernizes legacy **MSSQL-based financial systems** into a **Delta Lake architecture on Azure Data Lake Storage (ADLS)**.  
 The solution ensures scalable ingestion, reliable transformations, automated orchestration, and operational monitoring using Azure-native services.
 
+
+##  Demo Screenshot
+ <img width="1920" height="799" alt="FintechProject" src="https://github.com/user-attachments/assets/be02db2c-7b1c-4605-9a1d-b9266de24708" />
+
+
 ---
 
 ## 🛠 Tech Stack
